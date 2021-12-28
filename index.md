@@ -1,37 +1,38 @@
-## Welcome to GitHub Pages
+<!DOCTYPE html>
+<html>
+    <head>
+            <link rel="stylesheet" href="YogaWebsiteStyle.css">
+    </head>
+<body>   
 
-You can use the [editor on GitHub](https://github.com/SKKishan/Yogi/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<h1><b><a style="color: whitesmoke;" href="YogaWebsiteHome.html">YogaLover</a></b><sup><small>.com</small></sup></h1>
+<ul><li><a href="Index.html">Home</a></li>
+    <li><a href="YogaWebsiteLearn.html">Learn Yoga</a></li>
+    <li><a href="YogaAbout.html">About</a></li>
+</ul>    
 
-### Markdown
+<img id="yogaimg"   src="Yooga.jpg" alt="yoga">
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+<div id="divone">
+<h2 id="whatis">What is Yoga</h2>
+<p id="paraone">Yoga is a mind and body practice. Various styles of yoga combine physical postures,<br>
+   breathing techniques, and meditation or relaxation. Yoga is an ancient practice<br>
+    that may have originated in India. It involves movement, meditation, and breathing<br>
+     techniques to promote mental and physical well-being</p>
+    </div>
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+<img id="benefitsimg" src="YogaBenifits.JPG" alt="benefits">
 
-1. Numbered
-2. List
+<div id="divtwo">
+    <h2 id="beni">Benefits of Yoga</h2>
+<p id="paratwo">Yoga's incorporation of meditation and breathing can help improve a person's<br>
+    mental well-being. “Regular yoga practice creates mental clarity and calmness; increases body<br>
+    awareness; relieves chronic stress patterns; relaxes the mind; centers attention;<br>
+    and sharpens concentration,” says Dr. Nevins.</p>
+</div>
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/SKKishan/Yogi/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+</body>
+</html>
